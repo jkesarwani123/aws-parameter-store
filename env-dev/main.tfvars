@@ -5,5 +5,7 @@ parameters = [
   { name = "dev.frontend.shipping_url" , value = "http://shipping.jkdevops.online:8080/"},
   { name = "dev.frontend.payment_url" , value = "http://payment.jkdevops.online:8080/"},
   { name = "dev.catalogue.mongo_endpoint" , value = "mongodb.jkdevops.online"}
+  { name = "dev.catalogue.mongo" , value = "MONGO=true"}
+  { name = "dev.catalogue.mongo_url" , value = "mongodb://mongodb.jkdevops.online:27017/catalogue"}
 
 ]
