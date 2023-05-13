@@ -17,6 +17,6 @@ parameters = [
   { name = "dev.shipping.db_host" , value = "mysql.jkdevops.online"},
   { name = "dev.shipping.mysql_url" , value = "mysql.jkdevops.online"},
   { name = "dev.shipping.db_user" , value = "root"},
-  { name = "dev.shipping.db_pass" , value = 'RoboShop@1'}
+  { name = "dev.shipping.db_pass" , value = "RoboShop@1"}
 
 ]
