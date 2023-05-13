@@ -3,6 +3,7 @@ parameters = [
   { name = "dev.frontend.cart_url" , value = "http://cart.jkdevops.online:8080/"},
   { name = "dev.frontend.user_url" , value = "http://user.jkdevops.online:8080/"},
   { name = "dev.frontend.shipping_url" , value = "http://shipping.jkdevops.online:8080/"},
-  { name = "dev.frontend.payment_url" , value = "http://payment.jkdevops.online:8080/"}
+  { name = "dev.frontend.payment_url" , value = "http://payment.jkdevops.online:8080/"},
+  { name = "dev.catalogue.mongo_endpoint" , value = "mongodb.jkdevops.online"}
 
 ]
