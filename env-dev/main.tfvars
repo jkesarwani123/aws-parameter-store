@@ -26,7 +26,7 @@ parameters = [
 #  { name = "dev.payment.amqp_user" , value = "roboshop"},
 #  { name = "dev.payment.amqp_pass" , value = "roboshop123"},
   { name = "dev.dispatch.amqp_host" , value = "rabbitmq.jkdevops.online"},
-  { name = "dev.payment.amqp_user" , value = "roboshop"},
-  { name = "dev.payment.amqp_pass" , value = "roboshop123"}
+  { name = "dev.dispatch.amqp_user" , value = "roboshop"},
+  { name = "dev.dispatch.amqp_pass" , value = "roboshop123"}
 
 ]
