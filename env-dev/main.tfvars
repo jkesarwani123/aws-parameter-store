@@ -7,6 +7,7 @@ parameters = [
   { name = "dev.catalogue.mongo_endpoint" , value = "mongodb.jkdevops.online"},
   { name = "dev.catalogue.mongo" , value = "MONGO=true"},
   { name = "dev.catalogue.mongo_url" , value = "mongodb://mongodb.jkdevops.online:27017/catalogue"},
+  { name = "dev.user.mongo_endpoint" , value = "mongodb.jkdevops.online"},
   { name = "dev.user.mongo" , value = "MONGO=true"},
   { name = "dev.user.redis_host" , value = "redis.jkdevops.online"},
   { name = "dev.user.mongo_url" , value = "mongodb://mongodb.jkdevops.online:27017/users"},
