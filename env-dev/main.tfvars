@@ -17,6 +17,7 @@ parameters = [
   { name = "dev.shipping.cart_endpoint" , value = "cart-dev.jkdevops.online:80"},
   { name = "dev.shipping.db_host" , value = "mysql-dev.jkdevops.online"},
   { name = "dev.shipping.mysql_url" , value = "mysql-dev.jkdevops.online"},
+  { name = "dev.rds.db_host" , value = "rds-dev-rds.cluster-cr1p5emgirem.us-east-1.rds.amazonaws.com"},
   { name = "dev.shipping.db_user" , value = "root"},
   { name = "dev.shipping.db_pass" , value = "RoboShop@1"},
   { name = "dev.payment.cart_host" , value = "cart-dev.jkdevops.online"},
