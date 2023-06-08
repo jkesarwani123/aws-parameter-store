@@ -29,6 +29,7 @@ parameters = [
   { name = "dev.dispatch.amqp_host" , value = "rabbitmq-dev.jkdevops.online"},
   { name = "dev.dispatch.amqp_user" , value = "roboshop"},
   { name = "dev.dispatch.amqp_pass" , value = "roboshop123"},
+  { name = "dev.docdb.db_endpoint" , value = "docdb-dev.cluster-cmscnppwjzuf.us-east-1.docdb.amazonaws.com"},
   { name = "dev.docdb.db_user" , value = "roboshop"},
   { name = "dev.docdb.db_pass" , value = "roboshop123456"},
   { name = "dev.rds.db_user" , value = "roboshop"},
